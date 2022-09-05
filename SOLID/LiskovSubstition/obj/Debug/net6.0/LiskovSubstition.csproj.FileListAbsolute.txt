@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\SOLID\LiskovSubstition\bin\Debug\net6.0\LiskovSubstition.exe
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\SOLID\LiskovSubstition\bin\Debug\net6.0\LiskovSubstition.deps.json
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\SOLID\LiskovSubstition\bin\Debug\net6.0\LiskovSubstition.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\SOLID\LiskovSubstition\bin\Debug\net6.0\LiskovSubstition.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\SOLID\LiskovSubstition\bin\Debug\net6.0\LiskovSubstition.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\SOLID\LiskovSubstition\obj\Debug\net6.0\LiskovSubstition.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\SOLID\LiskovSubstition\obj\Debug\net6.0\LiskovSubstition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\SOLID\LiskovSubstition\obj\Debug\net6.0\LiskovSubstition.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\SOLID\LiskovSubstition\obj\Debug\net6.0\LiskovSubstition.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\SOLID\LiskovSubstition\obj\Debug\net6.0\LiskovSubstition.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\SOLID\LiskovSubstition\obj\Debug\net6.0\LiskovSubstition.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\SOLID\LiskovSubstition\obj\Debug\net6.0\refint\LiskovSubstition.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\SOLID\LiskovSubstition\obj\Debug\net6.0\LiskovSubstition.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\SOLID\LiskovSubstition\obj\Debug\net6.0\LiskovSubstition.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\SOLID\LiskovSubstition\obj\Debug\net6.0\ref\LiskovSubstition.dll
