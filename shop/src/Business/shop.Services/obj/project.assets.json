@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "shop.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "shop.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/shop.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/shop.DataAccess.dll": {}
+        }
+      },
+      "shop.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/shop.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/shop.Entities.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "shop.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../../DataAccess/shop.DataAccess/shop.DataAccess.csproj",
+      "msbuildProject": "../../DataAccess/shop.DataAccess/shop.DataAccess.csproj"
+    },
+    "shop.Entities/1.0.0": {
+      "type": "project",
+      "path": "../../Common/shop.Entities/shop.Entities.csproj",
+      "msbuildProject": "../../Common/shop.Entities/shop.Entities.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "shop.DataAccess >= 1.0.0",
+      "shop.Entities >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\turka\\.nuget\\packages\\": {},
@@ -39,7 +77,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\turka\\source\\repos\\Kurumsal\\Turkcell\\Architectural Patterns\\Group 2\\shop\\src\\Common\\shop.Entities\\shop.Entities.csproj": {
+              "projectPath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Turkcell\\Architectural Patterns\\Group 2\\shop\\src\\Common\\shop.Entities\\shop.Entities.csproj"
+            },
+            "C:\\Users\\turka\\source\\repos\\Kurumsal\\Turkcell\\Architectural Patterns\\Group 2\\shop\\src\\DataAccess\\shop.DataAccess\\shop.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Turkcell\\Architectural Patterns\\Group 2\\shop\\src\\DataAccess\\shop.DataAccess\\shop.DataAccess.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\bin\Debug\net6.0\shop.Services.deps.json
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\bin\Debug\net6.0\shop.Services.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\bin\Debug\net6.0\shop.Services.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\bin\Debug\net6.0\shop.DataAccess.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\bin\Debug\net6.0\shop.Entities.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\bin\Debug\net6.0\shop.Entities.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\bin\Debug\net6.0\shop.DataAccess.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\obj\Debug\net6.0\shop.Services.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\obj\Debug\net6.0\shop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\obj\Debug\net6.0\shop.Services.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\obj\Debug\net6.0\shop.Services.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\obj\Debug\net6.0\shop.Services.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\obj\Debug\net6.0\shop.Services.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\obj\Debug\net6.0\shop.Services.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\obj\Debug\net6.0\refint\shop.Services.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\obj\Debug\net6.0\shop.Services.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\shop\src\Business\shop.Services\obj\Debug\net6.0\ref\shop.Services.dll

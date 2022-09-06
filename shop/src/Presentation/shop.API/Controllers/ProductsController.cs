@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using shop.Services;
 
 namespace shop.API.Controllers
 {
@@ -7,11 +8,17 @@ namespace shop.API.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
+        private readonly IProductService _productService;   
+        public ProductsController(IProductService productService)
+        {
+            _productService = productService;
+        }
+        [HttpGet]
         public IActionResult GetProducts()
         {
-            //ürünleri business'dan alacak:
+            //ürünleri business'dan alacak:         
 
-            return Ok();
+            return Ok(_productService.GetProducts());
         }
     }
 }
