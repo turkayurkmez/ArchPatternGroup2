@@ -1,0 +1,12 @@
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\DDD\HR\HR.Infrastructure\bin\Debug\net6.0\HR.Infrastructure.deps.json
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\DDD\HR\HR.Infrastructure\bin\Debug\net6.0\HR.Infrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\DDD\HR\HR.Infrastructure\bin\Debug\net6.0\HR.Infrastructure.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\DDD\HR\HR.Infrastructure\obj\Debug\net6.0\HR.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\DDD\HR\HR.Infrastructure\obj\Debug\net6.0\HR.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\DDD\HR\HR.Infrastructure\obj\Debug\net6.0\HR.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\DDD\HR\HR.Infrastructure\obj\Debug\net6.0\HR.Infrastructure.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\DDD\HR\HR.Infrastructure\obj\Debug\net6.0\HR.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\DDD\HR\HR.Infrastructure\obj\Debug\net6.0\HR.Infrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\DDD\HR\HR.Infrastructure\obj\Debug\net6.0\refint\HR.Infrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\DDD\HR\HR.Infrastructure\obj\Debug\net6.0\HR.Infrastructure.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\DDD\HR\HR.Infrastructure\obj\Debug\net6.0\ref\HR.Infrastructure.dll

@@ -1,0 +1,12 @@
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\Messaging\SimpleMessaging\Messages\bin\Debug\net6.0\Messages.deps.json
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\Messaging\SimpleMessaging\Messages\bin\Debug\net6.0\Messages.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\Messaging\SimpleMessaging\Messages\bin\Debug\net6.0\Messages.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\Messaging\SimpleMessaging\Messages\obj\Debug\net6.0\Messages.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\Messaging\SimpleMessaging\Messages\obj\Debug\net6.0\Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\Messaging\SimpleMessaging\Messages\obj\Debug\net6.0\Messages.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\Messaging\SimpleMessaging\Messages\obj\Debug\net6.0\Messages.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\Messaging\SimpleMessaging\Messages\obj\Debug\net6.0\Messages.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\Messaging\SimpleMessaging\Messages\obj\Debug\net6.0\Messages.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\Messaging\SimpleMessaging\Messages\obj\Debug\net6.0\refint\Messages.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\Messaging\SimpleMessaging\Messages\obj\Debug\net6.0\Messages.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 2\Messaging\SimpleMessaging\Messages\obj\Debug\net6.0\ref\Messages.dll
